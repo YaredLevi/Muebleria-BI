@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yared\\source\\repos\\AlbarranMultidimensional\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6F79E1-1123-7C9E-D32A-0E7F752E3558}|AlbarranMultidimensional.dwproj|C:\\Users\\Yared\\source\\repos\\AlbarranMultidimensional\\Dimensional.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{5C6F79E1-1123-7C9E-D32A-0E7F752E3558}|AlbarranMultidimensional.dwproj|solutionrelative:Dimensional.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6F79E1-1123-7C9E-D32A-0E7F752E3558}|AlbarranMultidimensional.dwproj|C:\\Users\\Yared\\source\\repos\\AlbarranMultidimensional\\Dimensional.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{5C6F79E1-1123-7C9E-D32A-0E7F752E3558}|AlbarranMultidimensional.dwproj|solutionrelative:Dimensional.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dimensional.cube [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Yared\\source\\repos\\AlbarranMultidimensional\\Dimensional.cube",
+              "RelativeDocumentMoniker": "Dimensional.cube",
+              "ToolTip": "C:\\Users\\Yared\\source\\repos\\AlbarranMultidimensional\\Dimensional.cube [Dise\u00F1o]",
+              "RelativeToolTip": "Dimensional.cube [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-05T18:17:17.097Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dimensional.dsv [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Yared\\source\\repos\\AlbarranMultidimensional\\Dimensional.dsv",
+              "RelativeDocumentMoniker": "Dimensional.dsv",
+              "ToolTip": "C:\\Users\\Yared\\source\\repos\\AlbarranMultidimensional\\Dimensional.dsv [Dise\u00F1o]",
+              "RelativeToolTip": "Dimensional.dsv [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-05T18:06:07.529Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
